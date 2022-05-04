@@ -63,7 +63,7 @@ const Navbar = () => {
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
               <div class="navbar-nav">
-                <a href="#" class="nav-item nav-link active">
+                <a href="/" class="nav-item nav-link active">
                   Home
                 </a>
                 <div class="nav-item dropdown">

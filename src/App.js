@@ -45,7 +45,7 @@ function App() {
             <Route path="/checkout" element={<Checkout />} />
             <Route path="/shippingdetails" element={<Shippingdetails />} />
             <Route path="/placeorder" element={<Placeorder />} />
-            <Route path="*" element={<ErrorPage />} />
+            <Route path="*" element={<Home />} />
           </Routes>
           <Footer />
         </Router>
