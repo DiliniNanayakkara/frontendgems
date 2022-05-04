@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/gems/static/css/main.5bc488e8.css",
+    "main.js": "/gems/static/js/main.9f7ef7b7.js",
+    "static/js/787.cda612ba.chunk.js": "/gems/static/js/787.cda612ba.chunk.js",
+    "static/media/spinel2.png": "/gems/static/media/spinel2.990057aa074f1fe832fc.png",
+    "static/media/certificate.png": "/gems/static/media/certificate.bd863c2cc180be92cf4c.png",
+    "static/media/error.gif": "/gems/static/media/error.922c78397447bcef7e43.gif",
+    "static/media/comvideo.png": "/gems/static/media/comvideo.03da22b00314bb9aeb9e.png",
+    "static/media/add.png": "/gems/static/media/add.b8e7f4ba4a3e9a9e2d65.png",
+    "static/media/May.jpg": "/gems/static/media/May.bd57d3897c497e392572.jpg",
+    "static/media/rightimg.jpg": "/gems/static/media/rightimg.813bdf7d3722d3759525.jpg",
+    "static/media/February.jpg": "/gems/static/media/February.d1aa2725f9387cdfcd27.jpg",
+    "static/media/December.jpg": "/gems/static/media/December.dc7a82eeb88cd6541e78.jpg",
+    "static/media/August.jpg": "/gems/static/media/August.9c6d28923c8d31e1682b.jpg",
+    "static/media/september.jpg": "/gems/static/media/september.fc39e72131a1e3569fb6.jpg",
+    "static/media/january.jpg": "/gems/static/media/january.4ccbc434114d34c47046.jpg",
+    "static/media/March.jpg": "/gems/static/media/March.05b3c71e9ed8645ab3f9.jpg",
+    "static/media/spinel.jfif": "/gems/static/media/spinel.c911de92be6d3ee23dad.jfif",
+    "static/media/November.jpg": "/gems/static/media/November.212699f32ddcd9b159a0.jpg",
+    "static/media/June.jpg": "/gems/static/media/June.ebc284a7f9eb724d36db.jpg",
+    "static/media/visa.png": "/gems/static/media/visa.abc64a7a194ed23216e1.png",
+    "static/media/paypal.png": "/gems/static/media/paypal.93ff7ed0bb75e5bd70ee.png",
+    "static/media/sp1.jpg": "/gems/static/media/sp1.6a9390dcb95757064730.jpg",
+    "static/media/master.png": "/gems/static/media/master.49b59b7ac06ab20f90f2.png",
+    "static/media/logo.jpg": "/gems/static/media/logo.9075ff91250722a70a1d.jpg",
+    "static/media/s3.jpg": "/gems/static/media/s3.9ef2c5ef5b859225e81a.jpg",
+    "static/media/s4.jpg": "/gems/static/media/s4.bcc4850fab8297c00522.jpg",
+    "static/media/2.png": "/gems/static/media/2.9fa936167db301edf12c.png",
+    "index.html": "/gems/index.html",
+    "main.5bc488e8.css.map": "/gems/static/css/main.5bc488e8.css.map",
+    "main.9f7ef7b7.js.map": "/gems/static/js/main.9f7ef7b7.js.map",
+    "787.cda612ba.chunk.js.map": "/gems/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc488e8.css",
+    "static/js/main.9f7ef7b7.js"
+  ]
+}
