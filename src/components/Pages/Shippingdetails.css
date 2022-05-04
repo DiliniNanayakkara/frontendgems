@@ -1,0 +1,95 @@
+.shippinginf {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 38px;
+
+color: #3E7FA4;
+}
+.shippingtext {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #696969;
+}
+.checkoutformlable {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 19px;
+
+color: #414141;
+}
+.Shippinginformation {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #085784;
+}
+.shippingtext {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 19px;
+
+color: #414141;
+}
+.paymentmethodimg {
+    width:80px;
+}
+.formtext {
+    font-family: lora;
+    font-size:15px;
+    color:grey;
+}
+.changeaddbtn {
+    padding:5px;
+    background-color: white;
+    border:1px solid grey;
+    color:grey;
+    
+} 
+.continue  {
+    background: #085784;
+    border:none;
+    padding: 5px 20px;
+    border-radius:5px;
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    float:right;
+}
+.birthstone-p-p {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 34px;
+    /* or 189% */
+    
+    text-align: justify;
+    letter-spacing: 0.03em;
+    
+    color: rgba(0, 0, 0, 0.78);
+}
+
+@media screen and (max-width: 1000px) { 
+    .checkoutformleft {
+        width:100%;
+    }
+      }

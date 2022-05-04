@@ -1,0 +1,71 @@
+.companylogo {
+    width:70px;
+    height:70px;
+}
+.cartitems  
+{
+   margin-top:30px;
+   color:grey;
+}
+.headernav{
+    margin-top: 20px;
+
+}
+.searchbtn {
+    border:none;
+    background-color: rgba(8, 87, 132, 1);
+    color:white;
+    padding:8px 10px;
+  border-radius: 5px;
+}
+.searchinput {
+    border:none;
+    padding: 8px 20px;
+    border:1px solid rgb(219, 219, 219);
+    width:80%;
+
+}
+.navbar {
+    background: #FFFFFF;
+box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.15);
+}
+.searchbar {
+    float:right;
+    width:100%;
+}
+.mobile-view {
+    display:none;
+}
+
+@media screen and (max-width: 1000px) {
+  .mobile-view {
+      display: contents;
+  }
+  .mobilenav {
+      float:right;
+  
+  }
+.searchbarclm 
+{
+    width:100%;
+    text-align: center;
+}
+.logoclm  {
+    width:50%;
+    float: left;
+    display:none;
+}
+
+.cartcolm 
+{
+    width:50%;
+    float: right;
+    display:none;
+}
+.spc {
+    display:none;
+}
+.cartitems {
+    float:right;
+}
+}

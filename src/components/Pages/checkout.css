@@ -1,0 +1,225 @@
+.shippingheader {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 38px;
+
+color: #6A6A6A;
+}
+.shippingsubheader {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 38px;
+    
+    color: #6A6A6A;
+}
+.checkouthead {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #2F2F2F;
+}
+.carttop {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 32px;
+color: #898585;
+
+}
+.cartimg {
+    width:150px;
+    height:150px;
+    object-fit: cover;
+}
+
+.stone_details_cart {
+    float:left;
+    border:none;
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #414141;
+}
+.Viewitembtn {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+background-color: white;
+color: #085784;
+background-color: none;
+border:none;
+}
+.Removebtn {
+    background-color: white;
+border:none;
+font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #CB0A0A;
+
+}
+.prevprice {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+text-decoration-line: line-through;
+color: rgba(65, 65, 65, 0.54);
+}
+.redprice {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+color: #CB0A0A;
+}
+.specalnote{
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 19px;
+
+color: #A6A3A3;
+
+}
+.specialnotetext {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #A6A3A3;
+
+}
+
+.notesavebtn {
+    padding:5px;
+    background-color: white;
+    border:1px solid grey;
+    color:grey;
+    float:right;
+}
+.totalarea {
+    background: rgba(196, 196, 196, 0.22);
+}
+.totaltag {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 19px;
+letter-spacing: 0.1em;
+
+color: #414141;
+}
+.totalprice {
+    
+font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+float:right;
+color: #949393;
+}
+.pleasenotetext  {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #888383;
+}
+.rightcartheader {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    
+    color: #053550;
+}
+.rightcardbodyrtext {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #696969;
+
+}
+.cardboldheader {
+    font-family: Lora;
+font-style: italic;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #000000;
+}
+.cardlink {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-decoration-line: underline;
+
+color: #085784;
+
+}
+.cardbodyhed {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #085784;
+
+}
+@media screen and (max-width: 1000px) { 
+  .responsivecheckout {
+      width:100%;
+  }
+  .responscart {
+      width:100%;
+  }
+  .Viewitembtn {
+      border:1px solid grey;
+   
+  }
+  .Removebtn {
+    border:1px solid grey;
+  }
+  .bottomclass {
+      width:100%;
+  }
+    }
+

@@ -1,0 +1,127 @@
+.add {
+    width:100%;
+}
+.home-top-heading {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 46px;
+/* identical to box height */
+
+
+color: #413F3F;
+}
+.home-top-p {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+width: 550px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #414141;
+}
+.ruby-p-text {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 28px;
+/* or 140% */
+width:80%;
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #414141;
+}
+
+.topbtn {
+    background: #085784;
+    border:none;
+    padding: 5px 20px;
+    border-radius:5px;
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+
+.viewmorea {
+    text-decoration: none;
+    color:#1176b0;
+    font-weight: 600;
+}
+.Ruby-header {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.leftcontent {
+    text-align: center;
+}
+.ent-p-text{
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 28px;
+/* or 122% */
+
+text-align: justify;
+
+color: rgba(0, 0, 0, 0.67);
+}
+.end-heading {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;
+    text-align: justify;
+    
+    color: rgba(0, 0, 0, 0.65); 
+}
+.rightimg {
+    height: 350px;
+    border: 10px solid #ffffff;
+    box-sizing: border-box;
+    background: #FFFFFF;
+box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.15);
+}
+@media screen and (max-width: 1000px) { 
+
+    .leftcontent {
+        width:100%;
+    }
+    .home-top-p {
+        width:100%;
+    
+}
+.rightimgcol {
+    width:100%;
+    padding:10px;
+}
+.rightimg {
+    object-fit: cover;
+}
+.topcat{
+    width:50%;
+}
+}

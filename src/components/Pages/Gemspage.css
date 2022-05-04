@@ -1,0 +1,96 @@
+.gems-header {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+
+color: #053550;
+
+}
+.filter-section {
+    display:none;
+}
+.filterbtn {
+    background: #085784;
+    border:none;
+    padding: 5px 20px;
+    border-radius:5px;
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+letter-spacing: 0.05em;
+width: 100%;
+color: #FFFFFF;
+}
+.product-img{
+    width:70px;
+}
+
+.card-topic {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 21px;
+    /* or 140% */
+    
+    text-align: center;
+    
+    color: #414141;
+
+}
+.card-body-text {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 21px;
+/* or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #676767;
+}
+.product-price {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 21px;
+/* or 162% */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #565151;
+}
+.clickline {
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 21px;
+/* or 175% */
+
+text-align: center;
+letter-spacing: 0.05em;
+text-decoration-line: underline;
+
+color: #414141;
+}
+
+@media screen and (max-width: 1000px) { 
+.rang-filter {
+    width:100%;
+}
+.filterarea {
+    width:100%;
+}
+}

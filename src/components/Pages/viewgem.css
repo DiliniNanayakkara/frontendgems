@@ -1,0 +1,217 @@
+.viewgems-header {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #053550;
+}
+.viewgems-top-p-text {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 38px;
+/* or 190% */
+
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #414141;
+
+}
+.viewgem-img {
+    width:400px;
+    float:right;
+    
+}
+.itemtag {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #414141;
+}
+.pricetag {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+text-decoration-line: line-through;
+
+color: #6F6D6D;
+
+}
+.redtext {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 33px;
+
+color: #CB0A0A;
+}
+.Available {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #414141;
+
+}
+.btnrow{
+    color:rgb(139, 139, 139);
+    border: 1px solid rgb(139, 139, 139); 
+    background-color: white;
+    padding:8px 20px;
+}
+.return {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #414141;
+}
+
+.stone_details_h {
+    float:left;
+    border:none;
+    font-family: Lora;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 19px;
+    color:black;
+   
+}
+.comvideo {
+    width:100%;
+}
+.blue {
+    background:rgba(223, 243, 254, 1);
+}
+.bluetextc {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.05em;
+color: #085784;
+}
+.bluenormaltext {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+letter-spacing: 0.05em;
+
+color: #696969;
+}
+.reviewheader{
+    text-align: center;
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #696969;
+}
+.user-profileimg {
+    width: 70px; width:70px; float:left; border-radius: 1000px; margin-right: 10px;
+}
+.user-info {
+    float:left;
+}
+
+.review-container {
+    width: 100%;
+    height:300px;
+    
+}
+.swiper-slide {
+    
+    background: #FFFFFF;
+   border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    float:left;
+    margin-right:1%;
+}
+.review-text {
+    width:50%;
+    float:left;
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height:15px;
+
+color: #696969;
+}
+.stars {
+    width:100%;
+    text-align: center;
+}
+.stars i {
+    color:rgb(168, 168, 6);
+}
+.heading {
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 45px;
+width:100%;
+/* identical to box height */
+color: #696969;
+
+}
+@media screen and (max-width: 1000px) { 
+   .view-img-card {
+       width:100%;
+   }
+   .stonedetailscol {
+    width:100%;
+}
+.reviewc  {
+    width:100%;
+    padding:5px;
+}
+.swiper-slide{
+    justify-content: center;
+    width:100%; 
+}
+.stars {
+    width:100%;
+}
+.review-text {
+    width:70%;
+}
+.videoimg {
+    width:100%;
+}
+    }
